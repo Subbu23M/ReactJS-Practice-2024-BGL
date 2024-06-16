@@ -1,0 +1,17 @@
+1) To install RTK
+  npm i @reduxjs/toolkit
+
+2)To install react-redux(react binders)
+  npm i react-redux
+
+3)To install react-router-dom-v6
+  npm install react-router-dom@6
+
+4)o install bootstrap@V4
+  npm i bootstrap@4.3.1
+
+5)To install Sass
+  npm install sass --save-dev
+
+6) To install axios
+    npm install axios
